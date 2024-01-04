@@ -34,4 +34,4 @@ Learnt more about:
 
 
 
-# You can watch the code live
+# You can watch the code live  https://gazanfar-loanprediction-ml.vercel.app/
