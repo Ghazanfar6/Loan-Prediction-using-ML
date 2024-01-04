@@ -11,8 +11,6 @@ The original version of this project was built using the Flask framework and was
 ## Solution
 To address this challenge, the project was reimplemented using the PyScript framework. PyScript is a lightweight and versatile framework that allows you to create web applications directly in Python. This approach eliminates the need for a separate web server, making the application easier to deploy and maintain.
 
-## Acknowledgments
-This project draws inspiration from the tutorials and guidance provided by Krish Naik. His videos on Flask framework and ML model deployment were instrumental in developing the initial version of this project.
 
 ## Disclaimer
 This application is for demonstration purposes only and should not be used to make actual loan decisions. The model's predictions are based on historical data and may not always be accurate.
@@ -34,12 +32,6 @@ Learnt more about:
 * Feature Engineering.
 * How to use py-script framework.
 
-## Related
-
-Here are some related projects
-
-* [Color Name Prediction](https://github.com/LakshmanKishore/colorNamePrediction)
-* [Iris Classification](https://github.com/LakshmanKishore/irisClassification)
 
 
-# You can watch the code live [here](https://lakshmankishore.github.io/loanPrediction)
+# You can watch the code live
